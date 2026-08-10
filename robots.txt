@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-kazino-dlya-igry-v-ruletku.github.io
+Sitemap: https://luchshie-kazino-dlya-igry-v-ruletku.github.io/sitemap.xml
